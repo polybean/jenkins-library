@@ -1,0 +1,13 @@
+## Runs production tests in Go
+
+Executes the tests with `ProductionTest` in their name
+
+**Arguments:**
+
+* **address**: the full address of the application under test
+* **srcDirectory**: source code directory in the project workspace
+* **useModule**: whether to use Golang module feature. Default value is `true`
+
+**Requirements:**
+
+* A node with Go

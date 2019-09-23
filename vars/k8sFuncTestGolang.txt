@@ -1,0 +1,15 @@
+## Runs functional tests in Go
+
+Executes the tests with `FunctionalTest` in their name
+
+**Arguments:**
+
+* **project**: the name of the project (e.g. `hello-go`).
+* **domain**: a fully qualified root domain to which the application is deployed
+* **srcDirectory**: source code directory in the project workspace
+* **useModule**: whether to use Golang module feature. Default value is `true`
+
+**Requirements:**
+
+* A node with Go
+

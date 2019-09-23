@@ -1,0 +1,10 @@
+## Upgrades the application
+
+**Arguments:**
+
+* **project**: the name of the project (e.g. `hello-go`).
+* **add**: the full address through which the application should be accessible
+
+**Requirements:**
+
+* A node with `helm`
